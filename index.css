@@ -91,9 +91,14 @@ img {
 	font-weight: bold;
 }
 
+.descript-stack {
+	color: rgb(167, 104, 79);
+}
+
 .alert {
 	display: none;
 	margin-bottom: 20px;
+	padding: 10px;
 }
 
 .alert-message {
@@ -101,7 +106,7 @@ img {
 	color: rgb(167, 0, 0);
 }
 
-@media (max-width: 600px) {
+@media (max-width: 700px) {
 	.link {
 		margin-top: 5px;
 	}
